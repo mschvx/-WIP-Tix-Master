@@ -1,0 +1,3 @@
+TIX MASTER
+* A concert ticket simulation complete with queueing / cart system.
+* Utilizes tkinter for GUI
